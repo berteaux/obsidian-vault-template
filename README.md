@@ -3,7 +3,7 @@ This Obsidian starter template combines Zettelkasten and PARA methods to create 
 It provides a structured approach to note-taking, personal knowledge management, and project organization within Obsidian.
 
 ## HOW TO USE IT
-Setup the Obsidian environment as describe in the [About Section](About) (in progress), create notes in appropriate directories and link them to Map of Contents files.
+Setup the Obsidian environment as describe in the [About Section](About.md) (in progress), create notes in appropriate directories and link them to Map of Contents files.
 
 ## COMMON USE CASES
 For Capturing New Ideas: Add notes to `/capture` directory
