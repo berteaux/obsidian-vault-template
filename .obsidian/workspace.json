@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "69cdca9612a98cba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a96629c1531236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc736b6596c4e64d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - references/📖 Web articles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "259cbc75f656b294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/The PARA Method - The Simple System for Organizing Your Digital Life in Seconds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cd8ec4f11154dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "db15f8de2672bbe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a1da033c806794",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dee02d105148976",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d909a5ecf17575dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9612e389a97a2f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7c7f89139dbd17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d8add388d95f1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/The PARA Method - The Simple System for Organizing Your Digital Life in Seconds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "843881b68de3eddb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/The PARA Method - The Simple System for Organizing Your Digital Life in Seconds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4dc3558d597db43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c32ab598d938e2eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/The PARA Method - The Simple System for Organizing Your Digital Life in Seconds.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "259cbc75f656b294",
+  "lastOpenFiles": [
+    "- Digital Garden/My References.md",
+    "- Digital Garden/My Projects.md",
+    "- Digital Garden/My Outputs.md",
+    "- Digital Garden/My Captures.md",
+    "- Digital Garden/My Areas.md",
+    "- Digital Garden/My Archives.md",
+    "🏠 Home.md",
+    "About.md",
+    "templates/resources/Resource Template.md",
+    "templates/references/Reference Template.md",
+    "templates/references/Book Template.md",
+    "templates/project/Project Template.md",
+    "templates/outputs/Output Template.md",
+    "templates/area/Area Template.md",
+    "templates/capture/Capture Note Template.md",
+    "3 - resources/📕 Knowledge Management.md",
+    "2 - areas/⛰️ Knowledge Management.md",
+    "4 - references/📖 Web articles.md",
+    "notes/The PARA Method - The Simple System for Organizing Your Digital Life in Seconds.md",
+    "1 - projects/🚀 Create my Obsidian Vault Template.md",
+    "- Digital Garden/My Resources.md",
+    "0 - capture/Capture Note.md",
+    "note/Resource.md",
+    "note",
+    "2 - areas/⛰️ Area 2.md",
+    "2 - areas/⛰️ Area 1.md",
+    "2 - areas/⛰️ Untitled 1.md",
+    "2 - areas/Untitled",
+    "templates/resources",
+    "templates/references",
+    "templates/project",
+    "templates/periodic",
+    "templates/outputs",
+    "templates/capture",
+    "templates/area",
+    "templates"
+  ]
+}

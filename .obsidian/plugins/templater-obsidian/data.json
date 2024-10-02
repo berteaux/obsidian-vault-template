@@ -1,0 +1,50 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "0 - capture",
+      "template": "templates/capture/Capture Note Template.md"
+    },
+    {
+      "folder": "0 - outputs",
+      "template": "templates/outputs/Output Template.md"
+    },
+    {
+      "folder": "1 - projects",
+      "template": "templates/project/Project Template.md"
+    },
+    {
+      "folder": "2 - areas",
+      "template": "templates/area/Area Template.md"
+    },
+    {
+      "folder": "3 - resources",
+      "template": "templates/resources/Resource Template.md"
+    },
+    {
+      "folder": "4 - references",
+      "template": "templates/references/Reference Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}
