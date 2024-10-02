@@ -1,11 +1,9 @@
 ---
-tags:
-  - resource
 Links: "[[My Resources]]"
 ---
 ---
 
 ## Methods
-- PARA Method
-- Zettlekasten
+- [[PARA Method]]
+- [[Zettelkasten Method]]
 

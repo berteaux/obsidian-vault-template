@@ -1,15 +1,15 @@
 ---
 tags:
-  - output
-Links: "[[My Outputs]]"
-Status:
-  - status/todo
+  - resource
+Links:
+---
 ---
 
----
+
+
 <%* 
-const DIRECTORY = "0 - outputs/"
-const BASE_NEW_FILENAME = "Output Note"
+const DIRECTORY = "notes/"
+const BASE_NEW_FILENAME = "Resource"
 
 let id = 1;
 let filename = BASE_NEW_FILENAME;

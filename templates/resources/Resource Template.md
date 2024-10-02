@@ -1,6 +1,4 @@
 ---
-tags:
-  - resource
 Links: "[[My Resources]]"
 ---
 ---

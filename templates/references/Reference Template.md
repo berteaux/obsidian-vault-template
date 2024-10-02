@@ -2,8 +2,6 @@
 tags:
   - reference
 Links: "[[My References]]"
-Status:
-  - status/todo
 ---
 
 ---
